@@ -29,15 +29,10 @@ function App() {
   return (
     <div className="group355">
 
-      
-
-      {/* Elementum Main Container */}
       <div className="elementum">
 
-        {/* Ellipse 734 */}
         <div className="ellipse734"></div>
 
-        {/* Polygon 1 */}
         <div className="polygon1"></div>
 
         <img src={vector2518} className="vector2518" alt="" />
@@ -58,19 +53,9 @@ function App() {
 <div className="featureRect657A"></div>
 <div className="featureRect657B"></div>
 
-
-
-        {/* Ellipse 739 */}
         <img src={ellipse739} alt="" className="ellipse739"/>
 
-        {/* Vector 251 */}
         <div className="vector251"></div>
-
-        
-
-        {/* ===================================
-            DECORATIVE SHAPES
-        =================================== */}
 
         <div className="decorativeShapes">
 
@@ -81,14 +66,8 @@ function App() {
           <div className="polygon3"></div>
 
         </div>
-        
-        {/* ===================================
-            FEATURES
-        =================================== */}
 
         <div className="features">
-
-          {/* Frame 1618872781 */}
 
           <div className="frame1618872781">
 
@@ -97,8 +76,6 @@ function App() {
               <div className="group351">
 
                 <div className="rectangle657"></div>
-
-                
 
                 <h2 className="featureTitle">
                   Tomorrow should be better than today
@@ -135,8 +112,6 @@ function App() {
             </div>
 
           </div>
-
-          {/* Frame 1618872785 */}
 
           <div className="frame1618872785">
 
@@ -185,14 +160,8 @@ function App() {
           </div>
 
         </div>
-        
-        {/* ===================================
-    HEADER + HERO
-=================================== */}
 
 <div className="headerSection">
-
-  {/* Navbar */}
 
   <div className="navbar">
 
@@ -224,7 +193,6 @@ function App() {
 
   </div>
 
-  {/* Hero */}
 
   <div className="heroSection">
 
@@ -250,8 +218,6 @@ function App() {
 
     </div>
 
-    {/* Hero Image */}
-
     <div className="heroImageContainer">
 
       <img
@@ -265,10 +231,6 @@ function App() {
   </div>
 
 </div>
-
-        {/* ===================================
-            TESTIMONIALS
-        =================================== */}
 
         <div className="testimonials">
           <img
@@ -365,13 +327,8 @@ function App() {
         </div>
 
 
-        {/* ===================================
-            SERVICES
-        =================================== */}
-
         <div className="services">
 
-          {/* Heading */}
 
           <div className="servicesHeading">
 
@@ -379,13 +336,9 @@ function App() {
 
             <h2 className="servicesTitle">
               What we can offer you!
-            </h2>
-
-            
+            </h2>          
 
           </div>
-
-          {/* Group 352 */}
 
           <div className="group352">
 
@@ -407,8 +360,6 @@ function App() {
 
           </div>
 
-          {/* Group 353 */}
-
           <div className="group353">
 
             <div className="line66"></div>
@@ -426,8 +377,6 @@ function App() {
             </div>
 
           </div>
-
-          {/* Group 354 */}
 
           <div className="group354">
 
@@ -454,9 +403,6 @@ function App() {
           </div>
 
         </div>
-        {/* ===================================
-            FOOTER + CTA
-        =================================== */}
 
         <div className="footerCTA">
 

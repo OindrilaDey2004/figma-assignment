@@ -31,8 +31,6 @@ body{
   background:#ffffff;
 }
 
-
-
 .vector2516{
   position:absolute;
   width:1439.87px;
@@ -41,63 +39,38 @@ body{
   top:3000px;
   z-index:1;
 }
-/* ===================================
-   ELLIPSE 736
-=================================== */
 
 .ellipse736{
   position:absolute;
-
   width:155.76px;
   height:155.76px;
-
   left:1654.06px;
   top:385.21px;
-
-  
 }
-
-/* ===================================
-   ELLIPSE 734
-=================================== */
 
 .ellipse734{
   position:absolute;
-
   width:300px;
   height:300px;
-
   left:877px;
   top:1595px;
-
   background:#FF2020;
-
   border-radius:50%;
-
   filter:blur(120px);
   opacity:0.4;
-
   z-index:0;
 }
 
-/* ===================================
-   POLYGON 1
-=================================== */
-
 .polygon1{
   position:absolute;
-
   width:274px;
   height:157px;
-z-index: 1;
+  z-index: 1;
   left:555px;
   top:2730px;
   border-left:140px solid transparent;
   border-right:140px solid transparent;
   border-bottom:237px solid #FF7171
-  
-
-  
 }
 
 .vector2518{
@@ -106,7 +79,6 @@ z-index: 1;
   top:5369px;
   width:163px;
   z-index:999;
-
 }
 
 .vector2519{
@@ -117,99 +89,58 @@ z-index: 1;
   z-index:999;
 }
 
-/* ===================================
-   ELLIPSE 739
-=================================== */
-
 .ellipse739{
   position:absolute;
-
   width:244px;
   height:244px;
-
   left:1622px;
   top:5558px;
-
   z-index:1;
 }
 
-
-/* ===================================
-   VECTOR 2510
-=================================== */
-
 .vector2510{
   position:absolute;
-
   width:347px;
   height:420px;
-
   left:-125px;
   top:550.5px;
-
-  
 }
-
-/* ===================================
-   VECTOR 2511
-=================================== */
 
 .vector2511{
   position:absolute;
-
   width:347px;
   height:420px;
-
   left:-50px;
   top:550.5px;
-
-  
 }
-/* ===================================
-   FEATURES
-=================================== */
 
 .features{
   position:absolute;
-
   left:160px;
   top:1567px;
-
   width:1599px;
   height:1370px;
-  
   display:flex;
   flex-direction:column;
   gap:170px;
 }
 
-/* ===================================
-   FRAME 1618872781
-=================================== */
-
 .frame1618872781{
   width:1599px;
   height:600px;
-
   display:flex;
   align-items:center;
   gap:132px;
 }
 
-/* ===================================
-   BODY A
-=================================== */
-
 .bodyA{
   width:703px;
   height:377px;
-
   position:relative;
 }
 
 .group351{
   position:relative;
-
   width:703px;
   height:377px;
 }
@@ -218,60 +149,46 @@ z-index: 1;
   position:absolute;
   top:1747px;
   left:150px;
-
   width:371px;
   height:30px;
 }
+
 .featureVector5B{
   position:absolute;
   top:2600px;
   left:1200px;
-
   width:371px;
   height:30px;
 }
 .servicesVector5{
   position:absolute;
-
   left:143px;
   top:3560px;
-
   width:331px;
   height:30px;
 }
 .testimonialVector5{
   position:absolute;
-
   left:863px;
   top:4636px;
-
   width:371px;
   height:30px;
 }
+
 .heroVector5{
   position:absolute;
-
   left:666px;
   top:338px;
-
   width:600px;
   height:110px;
-
   z-index:1;
 }
 
-/* ===================================
-   TITLE
-=================================== */
-
 .featureTitle{
   position:absolute;
-
   top:0;
   left:0;
-
   width:780px;
-
   font-family:"Gerbil";
   font-size:60px;
   font-weight:700;
@@ -280,20 +197,16 @@ z-index: 1;
   z-index:1;
   color:#0E0E0E;
 }
+
 .featureImageB{
   position:relative;
   left:180px;
 }
-/* ===================================
-   DESCRIPTION
-=================================== */
 
 .featureDescription{
   position:absolute;
-
   top:167px;
   left:0;
-
   width:703px;
   height:144px;
   text-align:left;
@@ -301,20 +214,13 @@ z-index: 1;
   font-size:24px;
   font-weight:400;
   line-height:48px;
-
   color:#4A4A4A;
 }
 
-/* ===================================
-   READ MORE
-=================================== */
-
 .readMoreWrapper{
   position:absolute;
-
   top:353px;
   left:0;
-
   display:flex;
   align-items:center;
   gap:38px;
@@ -325,7 +231,6 @@ z-index: 1;
   font-size:20px;
   font-weight:600;
   line-height:24px;
-
   color:#000000;
 }
 
@@ -346,171 +251,128 @@ z-index: 1;
   top:2810px;
 }
 
-
-
-
-
 .frame1618872785{
   width:1599px;
   height:600px;
-
   display:flex;
   align-items:center;
   gap:132px;
 }
 
-/* ===================================
-   BODY B
-=================================== */
-
 .bodyB{
   width:703px;
   height:377px;
-
   position:relative;
 }
-/* ===================================
-   FOOTER + CTA
-=================================== */
 
 .footerCTA{
   position:absolute;
-
   top:5369px;
   left:0;
-
   width:1920px;
   height:1297px;
 }
 
 .rectangle665{
   position:absolute;
-
   top:0;
   left:0;
-
   width:1920px;
   height:1297px;
-
   background:#D7EEDD;
 }
 
 .subscribeSection{
   position:absolute;
-
   width:904px;
   height:388px;
-
   top:140px;
   left:508px;
-
   z-index:2;
 }
 
 .newsletterTitle{
   width:904px;
-
   font-family:"Gerbil";
   font-size:100px;
   font-weight:400;
   line-height:116px;
   text-align:center;
-
   color:#000000;
 }
 
 .newsletterText{
   margin-top:10px;
-
   font-family:"Satoshi";
   font-size:24px;
   font-weight:400;
   line-height:36px;
   text-align:center;
-
   color:#000000;
 }
 
 .subscribeButton{
   position:absolute;
-
   top:316px;
   left:335px;
-
   width:233px;
   height:72px;
-
   border:none;
   border-radius:100px;
-
   background:#000000;
   color:#ffffff;
-
   font-family:"Satoshi";
   font-size:20px;
   font-weight:700;
-
   cursor:pointer;
 }
 
 .line67{
   position:absolute;
-
   top:628px;
   left:160px;
-
   width:1600px;
   border-top:1px solid #000000;
 }
 
 .group327{
   position:absolute;
-
   top:728px;
   left:160px;
-
   width:130px;
   height:279px;
 }
 
 .group328{
   position:absolute;
-
   top:728px;
   left:586px;
-
   width:226px;
   height:279px;
 }
 
 .group329{
   position:absolute;
-
   top:728px;
   left:1108px;
-
   width:130px;
   height:279px;
 }
 
 .group330{
   position:absolute;
-
   top:728px;
   left:1534px;
-
   width:226px;
   height:249px;
 }
 
 .footerHeading{
   margin-bottom:39px;
-
   font-family:"Gerbil";
   font-size:22px;
   font-weight:400;
   line-height:30px;
-
   color:#000000;
 }
 
@@ -519,7 +381,6 @@ z-index: 1;
   font-size:20px;
   font-weight:400;
   line-height:30px;
-
   color:#000000;
 }
 
@@ -528,87 +389,61 @@ z-index: 1;
   font-size:20px;
   font-weight:400;
   line-height:30px;
-
   color:#000000;
 }
 
 .copyright{
   position:absolute;
-
   top:1207px;
   left:812px;
-
   width:403px;
   height:30px;
-
   text-align:center;
-
   font-family:"Satoshi";
   font-size:18px;
   font-weight:400;
   line-height:30px;
-
   color:#000000;
 }
-/* ===================================
-   TESTIMONIALS
-=================================== */
 
 .testimonials{
   position:absolute;
-
   width:1844px;
   height:653px;
-
   top:4517px;
   left:38px;
 }
 
-/* ===================================
-   TESTIMONIAL HEAD
-=================================== */
-
 .testimonialHead{
   position:absolute;
-
   width:685px;
   height:149px;
-
   top:0;
   left:570px;
 }
 
 .testimonialRectangle657{
   position:absolute;
-
   width:207px;
   height:70px;
-
   top:0;
   left:25px;
-
   background:#D7EEDD;
-
   border-radius:100px;
 }
 
 .testimonialHeading{
   position:absolute;
-
   width:700px;
   height:132px;
-
   top:4px;
   left:19px;
-
   font-family:"Gerbil";
   font-weight:400;
   font-size:56px;
   line-height:66px;
   letter-spacing:-2.5%;
-
   text-align:center;
-
   color:#000000;
 }
 .msg{
@@ -630,73 +465,50 @@ z-index: 1;
 
 .testimonialText{
   position:absolute;
-
   width:703px;
   height:252px;
-
   top:53px;
   left:88px;
-
   font-family:"Satoshi";
   font-weight:400;
   font-size:30px;
   line-height:42px;
-
   text-align:center;
-
   color:#000000;
-
   z-index:2;
 }
 
 
 .commaTop{
   position:absolute;
-
   top:48px;
   left:8px;
-
   z-index:3;
 }
 
 .commaBottom{
   position:absolute;
-
   bottom:125px;
   right:190px;
-
   z-index:3;
 }
 
 .invertedComma1{
   position:absolute;
-
   left:37px;
   top:0;
-
   font-size:70px;
   line-height:49px;
 }
-
-
-
 
 .invertedComma3{
   position:absolute;
-
   left:0;
   top:0;
-
   font-size:70px;
   line-height:49px;
-
   transform:rotate(180deg);
 }
-
-
-/* ===================================
-   TESTIMONIAL IMAGES
-=================================== */
 
 .ellipse263Img{
   position:absolute;
@@ -761,27 +573,17 @@ z-index: 1;
   top:0px;
   left:1605px;
 }
-/* ===================================
-   SERVICES
-=================================== */
 
 .services{
   position:absolute;
-
   width:1618px;
   height:856px;
-
   top:3345px;
   left:143px;
 }
 
-/* ===================================
-   SERVICES HEADING
-=================================== */
-
 .servicesHeading{
   position:absolute;
-
   width:869px;
   height:234px;
   text-align:left;
@@ -791,15 +593,11 @@ z-index: 1;
 
 .servicesRectangle657{
   position:absolute;
-
   width:262px;
   height:92px;
-
   top:22px;
   left:607px;
-
   background:#D7EEDD;
-
   border-radius:100px;
 }
 
@@ -808,109 +606,71 @@ z-index: 1;
   text-align:left;
   width:831px;
   height:232px;
-
   top:0;
   left:18px;
-
   margin:0;
-
   font-family:"Gerbil";
   font-size:100px;
   font-weight:400;
   line-height:116px;
-
   color:#000000;
 }
 
-
-
-/* ===================================
-   GROUP 352
-=================================== */
-
 .group352{
   position:absolute;
-
   width:1600px;
   height:180px;
-
   top:316px;
   left:18px;
 }
 
 .line65{
   position:absolute;
-
   width:1600px;
   top:0;
-
   border:1px solid #B1B1B1;
 }
 
 .group352 .line66{
   position:absolute;
-
   width:1600px;
   bottom:0;
-
   border:1px solid #B1B1B1;
 }
 
-/* ===================================
-   GROUP 353
-=================================== */
-
 .group353{
   position:absolute;
-
   width:1600px;
   height:148px;
-
   top:528px;
   left:18px;
 }
 
 .group353 .line66{
   position:absolute;
-
   width:1600px;
   bottom:0;
-
   border:1px solid #B1B1B1;
 }
 
-/* ===================================
-   GROUP 354
-=================================== */
-
 .group354{
   position:absolute;
-
   width:1600px;
   height:170px;
-
   top:686px;
   left:18px;
 }
 
 .group354 .line66{
   position:absolute;
-
   width:1600px;
   bottom:0;
-
   border:1px solid #B1B1B1;
 }
 
-/* ===================================
-   SERVICE SMALL TEXT
-=================================== */
-
 .serviceSmallText{
   position:absolute;
-
   width:320px;
-
   top:28px;
   left:0;
   text-align:left;
@@ -918,22 +678,14 @@ z-index: 1;
   font-size:30px;
   font-weight:400;
   line-height:42px;
-
   color:#000000;
 }
 
-/* ===================================
-   SERVICE BIG TEXT
-=================================== */
-
 .serviceBigText{
   position:absolute;
-
   top:12px;
   left:456px;
-
   margin:0;
-
   font-family:"Gerbil";
   font-size:56px;
   font-weight:400;
@@ -942,124 +694,80 @@ z-index: 1;
   color:#000000;
 }
 
-/* ===================================
-   RECTANGLE 661 IMAGE
-=================================== */
-
 .rectangle661Img{
   position:absolute;
-
   width:160px;
   height:160px;
-
   top:0;
   left:1048px;
-
   border-radius:500px;
   z-index: 1;
   object-fit:cover;
 }
 
-/* ===================================
-   SERVICE ARROW
-=================================== */
-
 .serviceArrow{
   position:absolute;
-
   right:0;
   top:60px;
-
   font-size:42px;
   font-weight:300;
-
   color:#000000;
 }
-/* ===================================
-   HEADER SECTION
-=================================== */
 
 .headerSection{
   position:absolute;
-
   width:1920px;
   height:1254px;
-
   top:0;
   left:0;
 }
-
-/* ===================================
-   NAVBAR
-=================================== */
 
 .navbar{
   position:absolute;
-
   width:1920px;
   height:100px;
-
   top:0;
   left:0;
-
   background:#FFFFFF;
 }
 
-/* Logo */
-
 .logo{
   position:absolute;
-
   left:160px;
   top:27px;
-
   width:201px;
   height:46px;
-
   font-family:"Gerbil";
   font-size:28px;
   font-weight:400;
   line-height:46px;
-
   color:#000000;
 }
 
-/* Navigation */
-
 .pagesName{
   position:absolute;
-
   width:533px;
   height:24px;
-
   left:694px;
   top:38px;
-
   display:flex;
   gap:64px;
-
   align-items:center;
 }
 
 .pagesName a{
   text-decoration:none;
-
   font-family:"Satoshi";
   font-size:18px;
   font-weight:500;
   line-height:24px;
-
   color:#000000;
 }
 
-/* Hamburger */
-
 .component126{
   position:absolute;
-
   width:45.36px;
   height:10.5px;
-
   top:45px;
   left:1715px;
 }
@@ -1067,7 +775,6 @@ z-index: 1;
 .line21,
 .line22{
   position:absolute;
-
   width:45.36px;
   border:2px solid #000000;
 }
@@ -1080,84 +787,50 @@ z-index: 1;
   top:10.5px;
 }
 
-/* ===================================
-   HERO SECTION
-=================================== */
-
 .heroSection{
   position:absolute;
-
   width:1844px;
   height:1011px;
-
   left:38px;
   top:243px;
 }
 
-/* ===================================
-   HERO HEAD
-=================================== */
-
 .heroHead{
   position:absolute;
-
   width:1332px;
   height:477px;
-
   left:270px;
   top:0;
 }
 
-/* Pink Shape */
-
 .heroRectangle657{
   position:absolute;
-
   width:405px;
   height:137px;
-
   left:927px;
   top:140px;
-
   background:#FFC2EA;
-
   border-radius:100px;
-
   z-index:1;
 }
-
-/* Green Shape */
 
 .heroRectangle658{
   position:absolute;
-
   width:445px;
   height:109px;
-
   left:263px;
   top:255px;
-
   background:#D7EEDD;
-
   border-radius:100px;
-
   z-index:1;
 }
 
-/* Yellow Stroke */
-
-
-/* Main Heading */
-
-
  .heroTitle{
   width:1305px;
-
   font-family:"Gerbil";
   font-size:100px;
   font-weight:400;
-  line-height:110px;   /* was 126px */
-
+  line-height:110px;  
   text-align:center;
   z-index:10;
   position:absolute;
@@ -1165,40 +838,25 @@ z-index: 1;
   left:0;
 }
 
-
-/* Description */
-
 .heroDescription{
   position:absolute;
-
   width:831px;
   height:72px;
-
   left:237px;
   top:405px;
-
   font-family:"Satoshi";
   font-size:24px;
   font-weight:400;
   line-height:36px;
-
   text-align:center;
-
   color:#000000;
-
   z-index:2;
 }
 
-/* ===================================
-   HERO IMAGE
-=================================== */
-
 .heroImageContainer{
   position:absolute;
-
   width:1844px;
   height:453px;
-
   left:0;
   top:558px;
 }
@@ -1206,14 +864,9 @@ z-index: 1;
 .heroImage{
   width:100%;
   height:100%;
-
   object-fit:cover;
-
   display:block;
 }
-/* ===================================
-   DECORATIVE SHAPES
-=================================== */
 
 .decorativeShapes{
   position: relative;
@@ -1221,18 +874,13 @@ z-index: 1;
   height: 1200px;
 }
 
-/* Polygon 2 */
-
 .polygon2{
   position: absolute;
   top: 2300px;
   left: 101px;
-
   width: 274px;
   height: 267px;
-
   background: #FF7171;
-
   clip-path: polygon(
     50% 0%,
     100% 100%,
@@ -1240,72 +888,52 @@ z-index: 1;
   );
 }
 
-/* Polygon 3 */
-
 .polygon3{
   position: absolute;
   top: 1620px;
   left: 1590px;
-
   width: 274px;
   height: 267px;
-
   background: #FF7171;
-
   transform: rotate(20.03deg);
-
-
 }
-
-/* Vector 2517 */
 
 .vector2517{
   position:absolute;
-
   width:1439.87px;
   height:697.6px;
-
   left:450px;
   top:1997px;
 }
+
 .featureRect657A{
   position:absolute;
-
   width:240px;
   height:85px;
-
   top:1765px;
   left:590px;
-
   background:#D7EEDD;
-
   border-radius:100px;
-
   z-index:1;
 }
+
 .featureRect657B{
   position:absolute;
-
   width:180px;
   height:85px;
   z-index: 0.1;
   top:2450px;
   left:880px;
-
   background:#D7EEDD;
-
   border-radius:100px;
-
   z-index:1;
 }
+
 .invertedComma1,
 .invertedComma3{
   font-size:90px;
   line-height:49px;
-
   color:#afafaf;   
-
   font-family:"Satoshi";
-
   font-weight:700;
 }
