@@ -296,7 +296,7 @@ z-index: 1;
   width:703px;
   height:144px;
   text-align:left;
-  font-family:'Inter', sans-serif;
+  font-family:"Satoshi";
   font-size:24px;
   font-weight:400;
   line-height:48px;
@@ -320,7 +320,7 @@ z-index: 1;
 }
 
 .readMore{
-  font-family:'Inter', sans-serif;
+  font-family:"Satoshi";
   font-size:20px;
   font-weight:600;
   line-height:24px;
@@ -347,15 +347,7 @@ z-index: 1;
 
 
 
-/* ===================================
-   IMAGE 348
-=================================== */
 
-
-
-/* ===================================
-   FRAME 1618872785
-=================================== */
 
 .frame1618872785{
   width:1599px;
@@ -1312,7 +1304,7 @@ z-index: 1;
 
   color:#afafaf;   
 
-  font-family:serif;
+  font-family:"Satoshi";
 
   font-weight:700;
 }
