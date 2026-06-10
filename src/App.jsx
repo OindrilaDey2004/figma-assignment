@@ -553,7 +553,7 @@ function App() {
           </div>
 
           <p className="copyright">
-            ©2023 Elementum. All rights reserved!
+            ©2023 Elementum. All rights reserved
           </p>
 
         </div>
