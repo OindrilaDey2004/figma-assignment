@@ -92,7 +92,7 @@ body{
   width:274px;
   height:157px;
 z-index: 1;
-  left:655px;
+  left:555px;
   top:2730px;
   border-left:140px solid transparent;
   border-right:140px solid transparent;
@@ -227,7 +227,7 @@ z-index: 1;
 .featureVector5B{
   position:absolute;
   top:2600px;
-  left:1387px;
+  left:1200px;
 
   width:371px;
   height:30px;
@@ -282,7 +282,10 @@ z-index: 1;
   z-index:1;
   color:#0E0E0E;
 }
-
+.featureImageB{
+  position:relative;
+  left:180px;
+}
 /* ===================================
    DESCRIPTION
 =================================== */
@@ -341,7 +344,7 @@ z-index: 1;
 
 .featureArrowB{
   position:absolute;
-  left:1178px;
+  left:1005px;
   top:2810px;
 }
 
@@ -1224,8 +1227,8 @@ z-index: 1;
 
 .polygon2{
   position: absolute;
-  top: 2339px;
-  left: 191px;
+  top: 2300px;
+  left: 101px;
 
   width: 274px;
   height: 267px;
@@ -1243,8 +1246,8 @@ z-index: 1;
 
 .polygon3{
   position: absolute;
-  top: 1600px;
-  left: 1500px;
+  top: 1620px;
+  left: 1590px;
 
   width: 274px;
   height: 267px;

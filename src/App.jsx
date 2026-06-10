@@ -132,7 +132,7 @@ function App() {
               <img
                 src={image348b}
                 alt="Feature One"
-                className="featureImage"
+                className="featureImage featureImageB"
               />
 
             </div>
