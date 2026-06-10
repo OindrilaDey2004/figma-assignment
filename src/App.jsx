@@ -29,8 +29,7 @@ function App() {
   return (
     <div className="group355">
 
-      {/* Ellipse 736 */}
-      <div className="ellipse736"></div>
+      
 
       {/* Elementum Main Container */}
       <div className="elementum">
@@ -77,7 +76,7 @@ function App() {
 
           <div className="polygon2"></div>
 
-          <div className="vector2517"></div>
+         
 
           <div className="polygon3"></div>
 
@@ -99,7 +98,7 @@ function App() {
 
                 <div className="rectangle657"></div>
 
-                <div className="vector5"></div>
+                
 
                 <h2 className="featureTitle">
                   Tomorrow should be better than today
@@ -117,9 +116,7 @@ function App() {
                     Read more
                   </span>
 
-                  <div className="arrow4">
-                    →
-                  </div>
+                 
 
                 </div>
 
@@ -159,7 +156,7 @@ function App() {
 
                 <div className="rectangle657"></div>
 
-                <div className="vector5"></div>
+                
 
                 <h2 className="featureTitle">
                   See how we can help you progress
@@ -177,9 +174,7 @@ function App() {
                     Read more
                   </span>
 
-                  <div className="arrow4">
-                    →
-                  </div>
+                  
 
                 </div>
 
@@ -239,7 +234,7 @@ function App() {
 
       <div className="heroRectangle658"></div>
 
-      <div className="heroVector5"></div>
+      
 
       <h1 className="heroTitle">
         The thinkers and doers were changing
@@ -333,7 +328,7 @@ function App() {
               What our customer says About Us
             </h2>
 
-            <div className="testimonialVector5"></div>
+            
 
           </div>
 
@@ -386,7 +381,7 @@ function App() {
               What we can offer you!
             </h2>
 
-            <div className="servicesVector5"></div>
+            
 
           </div>
 
