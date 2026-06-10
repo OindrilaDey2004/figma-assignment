@@ -6,7 +6,7 @@
 }
 
 body{
-  background:#ffffff;
+  background:#ebe7e7;
   overflow-x:hidden;
 }
 @font-face {
@@ -20,21 +20,19 @@ body{
 }
 
 .group355{
-  
-  width:100%;
-  max-width:1920px;
-  margin:auto;
-
+  width:1920px;
+  margin:0 auto;
 }
 
 .elementum{
-  position:absolute;
+  position:relative;
   width:1920px;
   height:6665px;
-  top:0;
-  left:0;
   background:#ffffff;
 }
+
+
+
 .vector2516{
   position:absolute;
   width:1439.87px;
