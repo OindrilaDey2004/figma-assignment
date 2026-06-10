@@ -67,11 +67,7 @@ function App() {
         {/* Vector 251 */}
         <div className="vector251"></div>
 
-        {/* Vector 2510 */}
-        <div className="vector2510"></div>
-
-        {/* Vector 2511 */}
-        <div className="vector2511"></div>
+        
 
         {/* ===================================
             DECORATIVE SHAPES

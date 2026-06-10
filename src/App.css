@@ -11,25 +11,20 @@ body{
 }
 @font-face {
   font-family: "Gerbil";
-  src: url("./assets/fonts/Gerbil.otf") format("opentype");
+  src: url("./assets/fonts/gerbil.otf");
 }
 
 @font-face {
   font-family: "Satoshi";
-  src: url("./assets/fonts/Satoshi-Variable.otf") format("opentype");
+  src: url("./assets/fonts/Satoshi-Variable.ttf");
 }
 
 .group355{
-  position:relative;
   
-  width:1920px;
-  height:6665px;
+  width:100%;
+  max-width:1920px;
+  margin:auto;
 
-  margin:0 auto;
-
-  background:#ffffff;
-
-  overflow:hidden;
 }
 
 .elementum{
@@ -356,14 +351,7 @@ z-index: 1;
    IMAGE 348
 =================================== */
 
-.image348{
-  width:764px;
-  height:600px;
-  border-radius:30px;
-  overflow:hidden;
-  background-size:cover;
-  background-position:center;
-}
+
 
 /* ===================================
    FRAME 1618872785
@@ -957,7 +945,7 @@ z-index: 1;
   font-size:56px;
   font-weight:400;
   line-height:116px;
-  z-index: 1;
+  z-index: 2;
   color:#000000;
 }
 
@@ -975,7 +963,7 @@ z-index: 1;
   left:1048px;
 
   border-radius:500px;
-  z-index: 0.1;
+  z-index: 1;
   object-fit:cover;
 }
 
